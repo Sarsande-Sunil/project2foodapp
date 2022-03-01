@@ -1,0 +1,26 @@
+ body {
+     background-color: rgb(251, 213, 144);
+ }
+
+ #navbar ul {
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ #navbar {
+     border: 2px solid black;
+     width: auto;
+     height: 50px;
+     background-color: rgb(224, 131, 103);
+ }
+
+ li {
+     list-style: none;
+
+ }
+
+ a {
+     text-decoration: none;
+     font-size: 25px;
+     color: black;
+ }
